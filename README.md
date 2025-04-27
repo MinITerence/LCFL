@@ -1,5 +1,10 @@
 # LCFL-CST
 
+## CST-python
+
+
+
+
 To work with these datasets, follow these steps for each database:
 
 1、MIT-BIH Arrhythmia Database:
@@ -16,3 +21,13 @@ To work with these datasets, follow these steps for each database:
 
 
 By following these structured guidelines, you can effectively load, preprocess, and utilize the specified datasets with their respective network architectures. This approach ensures consistency and reliability in your research or application development.
+
+
+## AMO-matlab
+
+The codes are used for accuracy-oriented optimization for LCFL. For the detailed algorithm, please refer to Section IV in the paper.
+
+## Compare-LINGO
+
+It consists of the LINGO codes for resource optimization, where the results are used for comparison with the proposed AMO algorithm.
+
